@@ -1,0 +1,36 @@
+html {
+    background-color: khaki;
+}
+
+h1 {
+    color: #000;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    color: grey;
+}
+
+table {
+    margin: 0 auto;
+
+}
+
+.table-head {
+    text-align: center;
+    background-color: lightskyblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+    color: aqua;
+}
+
+tr {
+    background-color: lightcyan;
+}
+
+td {
+    text-align: center;
+}
